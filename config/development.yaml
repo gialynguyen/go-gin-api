@@ -1,7 +1,0 @@
-dbserver: localhost
-dbname: gin-vcteam
-dbport: 5432
-dbusername: postgres
-dbpassword: gialy17061998
-
-jwtaccesstokenkey: vcteamgialynguyen
